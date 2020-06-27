@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/news1"
+        android:title="娱乐新闻"
+        />
+    <item
+        android:id="@+id/news2"
+        android:title="娱乐新闻"
+        />
+    <item
+        android:id="@+id/news3"
+        android:title="娱乐新闻"
+        />
+    <item
+        android:id="@+id/news4"
+        android:title="娱乐新闻"
+        />
+</menu>
